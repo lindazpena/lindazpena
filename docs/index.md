@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Linda's world of harajuku 
 
 You can use the [editor on GitHub](https://github.com/lindazpena/lindazpena/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
